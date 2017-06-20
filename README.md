@@ -8,7 +8,7 @@ Computer Science programme
 
 All tested with OpenCV 2.4.9.
 
-Demo source code is provided "as is" to aid your learning and understanding of topics on the course.
+Demo source code is provided _"as is"_ to aid your learning and understanding of topics on the course.
 
 Some run with a webcam connected or from a command line supplied video file of a format OpenCV supports on your system (otherwise edit the script to provide your own image source).
 
