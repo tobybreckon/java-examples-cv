@@ -1,7 +1,8 @@
-# jaba-examples-cv
+# java-examples-cv
 
 OpenCV Java Computer Vision examples used for teaching within the
 Computer Science programme at Durham University (UK) by Toby Breckon.
+
 ---
 
 All tested with OpenCV 2.4.9.
