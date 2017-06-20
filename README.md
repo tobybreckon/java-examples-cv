@@ -1,7 +1,8 @@
 # java-examples-cv
 
 OpenCV Java Computer Vision examples used for teaching within the
-Computer Science programme at Durham University (UK) by Toby Breckon.
+Computer Science programme
+@ Durham University (UK) by Toby Breckon.
 
 ---
 
